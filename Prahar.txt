@@ -1,0 +1,783 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-02-19 21:47:41
+Student First Name:IAN
+Student Middle Initial:M
+Student Last Name:PRAHAR-RYALS
+Student Street Address 1:2936 OAKFORD ROAD
+Student Street Address 2:
+Student City:ARDMORE
+Student State Code:PA
+Student Country Code:US
+Student Zip Code:19003
+Student Email Address:IMPRAHAR.RYALS@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:6106421208
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:6105171642
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:05/13/2016
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:N
+Undergraduate Award Year:2016
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$14,711.00
+Undergraduate Aggregate Unsubsidized Total:$5,661.00
+Undergraduate Aggregate Combined Total:$20,372.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:N
+Graduate Award Year:
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$0.00
+Graduate Aggregate Unsubsidized Total:$0.00
+Graduate Aggregate Combined Total:$0.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$14,711.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$5,661.00
+Aggregate Combined Total (Undergraduate and Graduate):$20,372.00
+Student Total All Loans Outstanding Principal:$21,209.00
+Student Total All Loans Outstanding Interest:$721.00
+Student Pell Lifetime Eligibility Used:200.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$5,005.00
+Type Code:D0
+Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Total <D0> Outstanding Principal:$14,886.00
+Total <D0> Outstanding Interest:$434.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$6,323.00
+Total <D2> Outstanding Interest:$287.00
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****1938S16G03313001
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:08/25/2015
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:05/13/2016
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,252.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$153.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$53.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$520.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$31.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,221.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2015
+Loan Disbursement Date:01/12/2016
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/25/2015
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1938U16G03313001
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:08/25/2015
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/31/2015
+Loan Period End Date:05/13/2016
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,031.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$93.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.29%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$20.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$203.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:4
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$140.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,891.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/25/2015
+Loan Disbursement Date:01/12/2016
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/25/2015
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****1938S15G03313001
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:08/18/2014
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/08/2015
+Loan Amount:$5,500.00
+Loan Disbursed Amount:$5,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$5,266.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$167.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$54.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$534.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$33.00
+Net Loan Amount:$5,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$5,233.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2014
+Loan Disbursement Date:01/06/2015
+Loan Disbursement Amount:$2,750.00
+Loan Disbursement Date:08/18/2014
+Loan Disbursement Amount:$2,750.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1938U15G03313001
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:08/18/2014
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/25/2014
+Loan Period End Date:05/08/2015
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,139.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$106.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:4.66%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$22.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$216.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$250.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,889.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/18/2014
+Loan Disbursement Date:01/06/2015
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:08/18/2014
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D0
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED (SULA ELIGIBLE)
+Loan Award ID:*****1938S14G03313002
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:12/09/2013
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:05/09/2014
+Loan Amount:$4,500.00
+Loan Disbursed Amount:$4,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,368.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$114.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$43.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:1.0
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$424.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$111.00
+Net Loan Amount:$4,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$4,257.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/09/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$2,250.00
+Loan Disbursement Date:12/09/2013
+Loan Disbursement Amount:$2,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****1938U14G03313002
+Loan Attending School Name:Widener University
+Loan Attending School OPEID:00331300
+Loan Date:12/09/2013
+Loan Repayment Begin Date:11/14/2016
+Loan Period Begin Date:08/26/2013
+Loan Period End Date:05/09/2014
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,153.00
+Loan Outstanding Principal Balance as of Date:01/31/2023
+Loan Outstanding Interest Balance:$88.00
+Loan Outstanding Interest Balance as of Date:01/31/2023
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:3.86%
+Loan Repayment Plan Type Code:J5
+Loan Repayment Plan Type Code Description:POST-REVISED PAY AS YOU EARN ALTERNATIVE PLAN
+Loan Repayment Plan Begin Date:02/11/2019
+Loan Repayment Plan Scheduled Amount:$21.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/10/2018
+Loan Next Payment Due Date:09/16/2023
+Loan Cumulative Payment Amount:$207.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2014
+Capitalized Interest:$272.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,881.00
+Calculated Combined Aggregate OPB:
+UpdtDt:02/03/2023
+DelinqDate:03/11/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:10/24/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/18/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:10/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/10/2017
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/10/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/14/2016
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/13/2016
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:12/09/2013
+Loan Disbursement Date:01/08/2014
+Loan Disbursement Amount:$1,000.00
+Loan Disbursement Date:12/09/2013
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Widener University
+Grant Attending School OPEID:00331300
+Grant Award Year:2015 - 2016
+Grant Scheduled Amount:$3,925.00
+Grant Award Amount:$3,925.00
+Grant Disbursed Amount:$3,925.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00331300
+Grant Contact Name:Widener University
+Grant Contact Street Address 1:ONE UNIVERSITY PLACE
+Grant Contact Street Address 2:
+Grant Contact City:CHESTER
+Grant Contact State Code:PA
+Grant Contact Zip Code:19013
+Phone Number:610-499-1226
+Phone Extension:
+Email Address:pjlehrberger@widener.edu
+Web Site Address:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:Widener University
+Grant Attending School OPEID:00331300
+Grant Award Year:2014 - 2015
+Grant Scheduled Amount:$1,080.00
+Grant Award Amount:$1,080.00
+Grant Disbursed Amount:$1,080.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00331300
+Grant Contact Name:Widener University
+Grant Contact Street Address 1:ONE UNIVERSITY PLACE
+Grant Contact Street Address 2:
+Grant Contact City:CHESTER
+Grant Contact State Code:PA
+Grant Contact Zip Code:19013
+Phone Number:610-499-1226
+Phone Extension:
+Email Address:pjlehrberger@widener.edu
+Web Site Address:
+Program School Name:Widener University
+Program School OPEID:00331300
+Program Cip Year:2010
+Program Cip Code:520201
+Program CIP Title:Business Administration and Management, General.
+Program Credential Level Code:03
+Program Credential Level Code Description:BACHELOR?S DEGREE
+Program Begin Date:07/01/2013
+Program Published Length in Years:6.9
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:05/13/2016
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:07/01/2013
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:08/25/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/13/2016
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:08/25/2015
+Award Loan Period Begin Date:08/31/2015
+Award Loan Period End Date:05/13/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:08/18/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/08/2015
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:08/18/2014
+Award Loan Period Begin Date:08/25/2014
+Award Loan Period End Date:05/08/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:12/05/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/09/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:12/09/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/09/2014
+Award Subsidized Usage:1.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:12/05/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/09/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:Widener University
+Award School OPEID:00331300
+Award Earliest Disbursement Date:12/09/2013
+Award Loan Period Begin Date:08/26/2013
+Award Loan Period End Date:05/09/2014
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:Widener University
+Enrolled School OPEID:00331300
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/13/2016

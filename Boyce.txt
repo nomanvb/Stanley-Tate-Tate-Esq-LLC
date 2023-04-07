@@ -1,0 +1,3794 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2023-01-21 21:43:34
+Student First Name:STEPHANIE
+Student Middle Initial:R
+Student Last Name:BOYCE
+Student Street Address 1:1919 JACKSON ST. #1612
+Student Street Address 2:
+Student City:DALLAS
+Student State Code:TX
+Student Country Code:US
+Student Zip Code:75201
+Student Email Address:STEPHANIEBARTON5@GMAIL.COM
+Student Home Phone Country Code:1
+Student Home Phone Number:2142825821
+Student Home Phone Preferred:N
+Student Cell Phone Country Code:1
+Student Cell Phone Number:7134259450
+Student Cell Phone Preferred:Y
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0
+Student SULA Subsidized Usage Period:0
+Student SULA Remaining Eligibility Period:0
+Student Enrollment Status Code:G
+Student Enrollment Status Code Description:GRADUATED
+Student Enrollment Status Effective Date:08/14/2018
+Undergraduate Subsidized Loan Limit Flag:N
+Undergraduate Combined Loan Limit Flag:C
+Undergraduate Award Year:2008
+Undergraduate Dependency Indicator:I
+Undergraduate Aggregate Subsidized Total:$16,250.00
+Undergraduate Aggregate Unsubsidized Total:$16,194.00
+Undergraduate Aggregate Combined Total:$32,444.00
+Graduate Subsidized Loan Limit Flag:N
+Graduate Combined Loan Limit Flag:C
+Graduate Award Year:2018
+Graduate Dependency Indicator:I
+Graduate Aggregate Subsidized Total:$9,424.00
+Graduate Aggregate Unsubsidized Total:$96,632.00
+Graduate Aggregate Combined Total:$106,056.00
+Aggregate Subsidized Total (Undergraduate and Graduate):$25,674.00
+Aggregate Unsubsidized Total (Undergraduate and Graduate):$112,826.00
+Aggregate Combined Total (Undergraduate and Graduate):$138,500.00
+Student Total All Loans Outstanding Principal:$180,028.00
+Student Total All Loans Outstanding Interest:$22,492.00
+Student Pell Lifetime Eligibility Used:400.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$14,360.00
+Type Code:D1
+Type Description:DIRECT STAFFORD SUBSIDIZED
+Total <D1> Outstanding Principal:$9,424.00
+Total <D1> Outstanding Interest:$1,614.00
+Type Code:D2
+Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Total <D2> Outstanding Principal:$116,124.00
+Total <D2> Outstanding Interest:$12,573.00
+Type Code:PU
+Type Description:FEDERAL PERKINS
+Total <PU> Outstanding Principal:$0.00
+Total <PU> Outstanding Interest:$0.00
+Type Code:SF
+Type Description:FFEL STAFFORD SUBSIDIZED
+Total <SF> Outstanding Principal:$21,090.00
+Total <SF> Outstanding Interest:$3,348.00
+Type Code:SU
+Type Description:FFEL STAFFORD UNSUBSIDIZED
+Total <SU> Outstanding Principal:$33,390.00
+Total <SU> Outstanding Interest:$4,957.00
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U18G03656001
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:08/14/2017
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:08/24/2017
+Loan Period End Date:12/15/2017
+Loan Amount:$4,338.00
+Loan Disbursed Amount:$4,338.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,557.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$475.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.00%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$59.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2018
+Capitalized Interest:$219.00
+Net Loan Amount:$4,338.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,338.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/14/2017
+Loan Disbursement Date:08/14/2017
+Loan Disbursement Amount:$4,338.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U17G03656001
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:08/15/2016
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:08/25/2016
+Loan Period End Date:05/12/2017
+Loan Amount:$13,666.00
+Loan Disbursed Amount:$13,666.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$14,770.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,364.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.31%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$182.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$85.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2017
+Capitalized Interest:$1,104.00
+Net Loan Amount:$13,666.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$13,666.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/12/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/11/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/15/2016
+Loan Disbursement Date:01/07/2017
+Loan Disbursement Amount:$6,833.00
+Loan Disbursement Date:08/15/2016
+Loan Disbursement Amount:$6,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U17G03656002
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:06/07/2016
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:06/06/2016
+Loan Period End Date:08/16/2016
+Loan Amount:$6,834.00
+Loan Disbursed Amount:$6,834.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,536.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$765.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$95.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$107.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$702.00
+Net Loan Amount:$6,834.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,834.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/18/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:07/17/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/07/2016
+Loan Disbursement Date:06/07/2016
+Loan Disbursement Amount:$6,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U16G03656001
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:08/17/2015
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:08/27/2015
+Loan Period End Date:05/13/2016
+Loan Amount:$13,667.00
+Loan Disbursed Amount:$13,667.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$15,367.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,560.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:5.84%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$196.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$403.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2016
+Capitalized Interest:$1,700.00
+Net Loan Amount:$13,667.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$13,667.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/05/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/17/2015
+Loan Disbursement Date:01/09/2016
+Loan Disbursement Amount:$6,833.00
+Loan Disbursement Date:08/17/2015
+Loan Disbursement Amount:$6,834.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U16G03656002
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:05/29/2015
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:06/08/2015
+Loan Period End Date:08/18/2015
+Loan Amount:$6,833.00
+Loan Disbursed Amount:$6,833.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$7,772.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$839.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$101.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$356.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$939.00
+Net Loan Amount:$6,833.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$6,833.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/05/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/29/2015
+Loan Disbursement Date:05/29/2015
+Loan Disbursement Amount:$6,833.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U15G03656001
+Loan Attending School Name:University of Texas at Arlington
+Loan Attending School OPEID:00365600
+Loan Date:08/11/2014
+Loan Repayment Begin Date:06/17/2018
+Loan Period Begin Date:08/21/2014
+Loan Period End Date:05/15/2015
+Loan Amount:$19,766.00
+Loan Disbursed Amount:$19,766.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$23,214.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$2,506.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.21%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$303.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$1,031.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:A
+Additional Unsubsidized Loan Flag:N
+Award Year:2015
+Capitalized Interest:$3,448.00
+Net Loan Amount:$19,766.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$19,766.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/05/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/04/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/17/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/16/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/11/2014
+Loan Disbursement Date:01/10/2015
+Loan Disbursement Amount:$9,516.00
+Loan Disbursement Date:08/11/2014
+Loan Disbursement Amount:$10,250.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U13G03594001
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:08/19/2012
+Loan Repayment Begin Date:11/11/2013
+Loan Period Begin Date:08/29/2012
+Loan Period End Date:05/10/2013
+Loan Amount:$14,594.00
+Loan Disbursed Amount:$14,594.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$19,166.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$2,262.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$271.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$1,348.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2013
+Capitalized Interest:$4,572.00
+Net Loan Amount:$14,594.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$14,594.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:01/17/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2012
+Loan Disbursement Date:01/04/2013
+Loan Disbursement Amount:$7,297.00
+Loan Disbursement Date:08/19/2012
+Loan Disbursement Amount:$7,297.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8262S12G03594002
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:06/06/2012
+Loan Repayment Begin Date:11/11/2013
+Loan Period Begin Date:05/14/2012
+Loan Period End Date:08/10/2012
+Loan Amount:$6,452.00
+Loan Disbursed Amount:$6,452.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,452.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$1,105.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$93.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$6,452.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$6,452.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:01/02/2014
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/06/2012
+Loan Disbursement Date:06/06/2012
+Loan Disbursement Amount:$6,452.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8262S12G03594001
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:08/19/2011
+Loan Repayment Begin Date:02/11/2014
+Loan Period Begin Date:08/25/2011
+Loan Period End Date:05/11/2012
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:11/07/2011
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:11/07/2011
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:6.80%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:03/28/2012
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:10/21/2011
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2011
+Loan Disbursement Date:08/19/2011
+Loan Disbursement Amount:$0.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U12G03594001
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:08/19/2011
+Loan Repayment Begin Date:11/11/2013
+Loan Period Begin Date:08/25/2011
+Loan Period End Date:05/11/2012
+Loan Amount:$13,436.00
+Loan Disbursed Amount:$13,436.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$18,760.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$2,214.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$265.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$1,320.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2012
+Capitalized Interest:$5,324.00
+Net Loan Amount:$13,436.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$13,436.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:01/17/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/19/2011
+Loan Disbursement Date:01/10/2012
+Loan Disbursement Amount:$6,684.00
+Loan Disbursement Date:08/19/2011
+Loan Disbursement Amount:$6,752.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D1
+Loan Type Description:DIRECT STAFFORD SUBSIDIZED
+Loan Award ID:*****8262S11G03594001
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:06/29/2011
+Loan Repayment Begin Date:11/11/2013
+Loan Period Begin Date:05/16/2011
+Loan Period End Date:08/12/2011
+Loan Amount:$2,972.00
+Loan Disbursed Amount:$2,972.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,972.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$509.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$43.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:01/01/1901
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$0.00
+Net Loan Amount:$2,972.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,972.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:01/02/2014
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/17/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/16/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/29/2011
+Loan Disbursement Date:06/29/2011
+Loan Disbursement Amount:$2,972.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:D2
+Loan Type Description:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262U11G03594001
+Loan Attending School Name:University of North Texas
+Loan Attending School OPEID:00359400
+Loan Date:06/29/2011
+Loan Repayment Begin Date:11/11/2013
+Loan Period Begin Date:05/16/2011
+Loan Period End Date:08/12/2011
+Loan Amount:$3,498.00
+Loan Disbursed Amount:$3,498.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,982.00
+Loan Outstanding Principal Balance as of Date:12/31/2022
+Loan Outstanding Interest Balance:$588.00
+Loan Outstanding Interest Balance as of Date:12/31/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:0.00%
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:SF
+Loan Repayment Plan Type Code Description:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:03/12/2020
+Loan Repayment Plan Scheduled Amount:$70.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:02/13/2017
+Loan Next Payment Due Date:10/28/2023
+Loan Cumulative Payment Amount:$350.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:G
+Additional Unsubsidized Loan Flag:N
+Award Year:2011
+Capitalized Interest:$1,484.00
+Net Loan Amount:$3,498.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,498.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/06/2023
+DelinqDate:01/17/2019
+Current Loan Status:FB
+Current Loan Status Description:FORBEARANCE
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/13/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/11/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/13/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:08/24/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/22/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/16/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:02/15/2019
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/16/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/18/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/17/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:04/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:03/02/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:01/01/2014
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/11/2013
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/10/2013
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:06/29/2011
+Loan Disbursement Date:06/29/2011
+Loan Disbursement Amount:$3,498.00
+Loan Contact Type:Current ED Servicer
+Loan Contact Code:580
+Loan Contact Name:DEPT OF ED/NELNET
+Loan Contact Street Address 1:PO BOX 740283
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:30374(0283)
+Loan Contact Phone Number:888-486-4722
+Loan Contact Phone Extension:
+Loan Contact Email Address:nelnetcustomersolutions@nelnet.com
+Loan Contact Web Site Address:http://www.nelnet.com
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:*****30228262PER24A
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:11/15/2007
+Loan Repayment Begin Date:09/01/2009
+Loan Period Begin Date:09/01/2007
+Loan Period End Date:06/30/2008
+Loan Amount:$3,000.00
+Loan Disbursed Amount:$3,000.00
+Loan Canceled Amount:$2,100.00
+Loan Canceled Date:11/02/2020
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:01/02/2023
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:5.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:5.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$900.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/04/2023
+DelinqDate:
+Current Loan Status:PF
+Current Loan Status Description:PAID IN FULL
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:10/13/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/01/2018
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:01/01/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/01/2017
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:06/01/2017
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:05/28/2017
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:01/01/2016
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:09/01/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/01/2015
+Loan Disbursement Date:02/19/2008
+Loan Disbursement Amount:$3,000.00
+Loan Contact Type:Attending School
+Loan Contact Code:00365200
+Loan Contact Name:University of Houston
+Loan Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Loan Contact Street Address 2:ERP2, ROOM 116
+Loan Contact City:HOUSTON
+Loan Contact State Code:TX
+Loan Contact Zip Code:77204(2010)
+Loan Contact Phone Number:832-842-3730
+Loan Contact Phone Extension:
+Loan Contact Email Address:samoore4@central.uh.edu
+Loan Contact Web Site Address:http://www.uh.edu/finaid
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G10
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:10/09/2007
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/20/2007
+Loan Period End Date:05/14/2008
+Loan Amount:$3,250.00
+Loan Disbursed Amount:$3,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,445.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$848.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$3,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,250.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/09/2007
+Loan Disbursement Date:01/14/2008
+Loan Disbursement Amount:$1,625.00
+Loan Disbursement Date:10/15/2007
+Loan Disbursement Amount:$1,625.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G09
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:07/09/2007
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/20/2007
+Loan Period End Date:05/14/2008
+Loan Amount:$2,250.00
+Loan Disbursed Amount:$2,250.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,077.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$587.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$2,250.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,250.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:07/09/2007
+Loan Disbursement Date:01/14/2008
+Loan Disbursement Amount:$1,125.00
+Loan Disbursement Date:08/21/2007
+Loan Disbursement Amount:$1,125.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262G11
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:10/10/2007
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/20/2007
+Loan Period End Date:05/14/2008
+Loan Amount:$5,000.00
+Loan Disbursed Amount:$4,097.00
+Loan Canceled Amount:$903.00
+Loan Canceled Date:05/23/2008
+Loan Outstanding Principal Balance:$9,084.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$1,733.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2008
+Capitalized Interest:$0.00
+Net Loan Amount:$3,194.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$3,194.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/10/2007
+Loan Disbursement Date:01/14/2008
+Loan Disbursement Amount:$1,597.00
+Loan Disbursement Date:10/17/2007
+Loan Disbursement Amount:$2,500.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G07
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:04/24/2007
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:01/16/2007
+Loan Period End Date:05/11/2007
+Loan Amount:$2,000.00
+Loan Disbursed Amount:$2,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,736.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$522.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$2,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,000.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/24/2007
+Loan Disbursement Date:04/27/2007
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262G08
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:04/24/2007
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:01/16/2007
+Loan Period End Date:05/11/2007
+Loan Amount:$1,000.00
+Loan Disbursed Amount:$1,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$2,286.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$436.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:3
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$1,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$1,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:04/24/2007
+Loan Disbursement Date:04/27/2007
+Loan Disbursement Amount:$1,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G05
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:09/20/2006
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/21/2006
+Loan Period End Date:05/11/2007
+Loan Amount:$3,500.00
+Loan Disbursed Amount:$3,500.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$4,787.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$913.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$3,500.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$3,500.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/20/2006
+Loan Disbursement Date:01/12/2007
+Loan Disbursement Amount:$1,750.00
+Loan Disbursement Date:09/25/2006
+Loan Disbursement Amount:$1,750.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262G06
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:09/28/2006
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/21/2006
+Loan Period End Date:05/11/2007
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$9,386.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$1,791.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:F
+Loan Interest Rate Type Description:FIXED
+Loan Interest Rate:6.80%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:6.80%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2007
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/28/2006
+Loan Disbursement Date:01/12/2007
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:10/02/2006
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G03
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:05/15/2005
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/22/2005
+Loan Period End Date:05/12/2006
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,023.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$239.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,625.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:05/15/2005
+Loan Disbursement Date:01/13/2006
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:08/19/2005
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262G04
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:10/11/2005
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/22/2005
+Loan Period End Date:05/12/2006
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,223.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$491.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:2
+Additional Unsubsidized Loan Flag:N
+Award Year:2006
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/11/2005
+Loan Disbursement Date:01/13/2006
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:10/14/2005
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834544
+Loan Contact Name:BANK OF TEXAS ELT NTHEA
+Loan Contact Street Address 1:801 CHERRY STREET, SUITE 3325
+Loan Contact Street Address 2:
+Loan Contact City:FORT WORTH
+Loan Contact State Code:TX
+Loan Contact Zip Code:76102(0000)
+Loan Contact Phone Number:8173485797
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SF
+Loan Type Description:FFEL STAFFORD SUBSIDIZED
+Loan Award ID:*****8262G01
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:08/12/2004
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/23/2004
+Loan Period End Date:05/13/2005
+Loan Amount:$2,625.00
+Loan Disbursed Amount:$2,625.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$3,022.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$239.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$2,625.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:$2,625.00
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/12/2004
+Loan Disbursement Date:01/19/2005
+Loan Disbursement Amount:$1,312.00
+Loan Disbursement Date:10/08/2004
+Loan Disbursement Amount:$1,313.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834097
+Loan Contact Name:WELLS FARGO ELT NTHEA, INC.
+Loan Contact Street Address 1:600 S 4TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:MINNEAPOLIS
+Loan Contact State Code:MN
+Loan Contact Zip Code:55479(0000)
+Loan Contact Phone Number:6126678003
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:SU
+Loan Type Description:FFEL STAFFORD UNSUBSIDIZED
+Loan Award ID:*****8262G02
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:10/12/2004
+Loan Repayment Begin Date:11/10/2008
+Loan Period Begin Date:08/23/2004
+Loan Period End Date:05/13/2005
+Loan Amount:$4,000.00
+Loan Disbursed Amount:$4,000.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$6,411.00
+Loan Outstanding Principal Balance as of Date:12/30/2022
+Loan Outstanding Interest Balance:$506.00
+Loan Outstanding Interest Balance as of Date:12/30/2022
+Loan Interest Rate Type Code:V
+Loan Interest Rate Type Description:VARIABLE
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:0.00%
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:1
+Additional Unsubsidized Loan Flag:N
+Award Year:2005
+Capitalized Interest:$0.00
+Net Loan Amount:$4,000.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:$4,000.00
+Calculated Combined Aggregate OPB:
+UpdtDt:01/15/2023
+DelinqDate:
+Current Loan Status:RP
+Current Loan Status Description:IN REPAYMENT
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/17/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/17/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/23/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/23/2022
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/01/2022
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:11/18/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/02/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/15/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/15/2021
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:01/01/2021
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:12/01/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:10/01/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:08/14/2020
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:06/26/2020
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/26/2020
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:03/11/2019
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:12/23/2018
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/22/2018
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:02/20/2018
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/21/2014
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:09/01/2013
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:07/30/2013
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:05/16/2011
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:03/08/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:08/23/2010
+Loan Status:FB
+Loan Status Description:FORBEARANCE
+Loan Status Effective Date:06/08/2009
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/10/2008
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/14/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:10/12/2004
+Loan Disbursement Date:01/19/2005
+Loan Disbursement Amount:$2,000.00
+Loan Disbursement Date:10/15/2004
+Loan Disbursement Amount:$2,000.00
+Loan Contact Type:Current Servicer
+Loan Contact Code:700064
+Loan Contact Name:HIGHER EDUCATION SERVICING CORP
+Loan Contact Street Address 1:4381 W Green Oaks Blvd Suite 200
+Loan Contact Street Address 2:
+Loan Contact City:Arlington
+Loan Contact State Code:TX
+Loan Contact Zip Code:76016
+Loan Contact Phone Number:800-366-4372
+Loan Contact Phone Extension:
+Loan Contact Email Address:service@hescloans.com
+Loan Contact Web Site Address:https://www.hescloans.com/
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Guaranty Agency
+Loan Contact Code:748
+Loan Contact Name:TEXAS GUARANTEED STUDENT LOAN CORP.
+Loan Contact Street Address 1:PO BOX 83100
+Loan Contact Street Address 2:
+Loan Contact City:ROUND ROCK
+Loan Contact State Code:TX
+Loan Contact Zip Code:78683(3100)
+Loan Contact Phone Number:800-845-6267
+Loan Contact Phone Extension:
+Loan Contact Email Address:trellishelps@trelliscompany.org
+Loan Contact Web Site Address:http://www.trelliscompany.org
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Contact Type:Current Lender
+Loan Contact Code:834097
+Loan Contact Name:WELLS FARGO ELT NTHEA, INC.
+Loan Contact Street Address 1:600 S 4TH ST.
+Loan Contact Street Address 2:
+Loan Contact City:MINNEAPOLIS
+Loan Contact State Code:MN
+Loan Contact Zip Code:55479(0000)
+Loan Contact Phone Number:6126678003
+Loan Contact Phone Extension:
+Loan Contact Email Address:
+Loan Contact Web Site Address:
+Most Relevant:N
+Loan Special Contact Reason:
+Loan Special Contact:
+Loan Type Code:PU
+Loan Type Description:FEDERAL PERKINS
+Loan Award ID:
+Loan Attending School Name:University of Houston
+Loan Attending School OPEID:00365200
+Loan Date:09/17/2007
+Loan Repayment Begin Date:
+Loan Period Begin Date:
+Loan Period End Date:
+Loan Amount:$0.00
+Loan Disbursed Amount:$0.00
+Loan Canceled Amount:$0.00
+Loan Canceled Date:
+Loan Outstanding Principal Balance:$0.00
+Loan Outstanding Principal Balance as of Date:10/06/2015
+Loan Outstanding Interest Balance:$0.00
+Loan Outstanding Interest Balance as of Date:
+Loan Interest Rate Type Code:
+Loan Interest Rate Type Description:
+Loan Interest Rate:0.00%
+Loan Actual Interest Rate:
+Loan Statutory Interest Rate:
+Loan Repayment Plan Type Code:
+Loan Repayment Plan Type Code Description:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:$0.00
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:
+Loan Next Payment Due Date:
+Loan Cumulative Payment Amount:$0.00
+Loan PSLF Cumulative Matched Months:0
+Academic Level:N
+Additional Unsubsidized Loan Flag:N
+Award Year:
+Capitalized Interest:$0.00
+Net Loan Amount:$0.00
+Reaffirmation flag:
+Calculated Subsidized Aggregate OPB:
+Calculated Unsubsidized Aggregate OPB:
+Calculated Combined Aggregate OPB:
+UpdtDt:10/13/2015
+DelinqDate:
+Current Loan Status:CA
+Current Loan Status Description:CANCELLED
+Loan Status:CA
+Loan Status Description:CANCELLED
+Loan Status Effective Date:10/06/2015
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:06/01/2015
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:02/01/2015
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:12/02/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2014
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:05/02/2014
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:06/01/2011
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:01/02/2011
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2010
+Loan Status:IP
+Loan Status Description:IN POST-DEFERMENT GRACE PERIOD
+Loan Status Effective Date:06/02/2010
+Loan Status:DA
+Loan Status Description:DEFERRED
+Loan Status Effective Date:09/01/2009
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:12/01/2008
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:09/17/2007
+Loan Contact Type:Attending School
+Loan Contact Code:00365200
+Loan Contact Name:University of Houston
+Loan Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Loan Contact Street Address 2:ERP2, ROOM 116
+Loan Contact City:HOUSTON
+Loan Contact State Code:TX
+Loan Contact Zip Code:77204(2010)
+Loan Contact Phone Number:832-842-3730
+Loan Contact Phone Extension:
+Loan Contact Email Address:samoore4@central.uh.edu
+Loan Contact Web Site Address:http://www.uh.edu/finaid
+Most Relevant:Y
+Loan Special Contact Reason:
+Loan Special Contact:
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Houston
+Grant Attending School OPEID:00365200
+Grant Award Year:2007 - 2008
+Grant Scheduled Amount:$3,260.00
+Grant Award Amount:$3,260.00
+Grant Disbursed Amount:$3,260.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00365200
+Grant Contact Name:University of Houston
+Grant Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Grant Contact Street Address 2:ERP2, ROOM 116
+Grant Contact City:HOUSTON
+Grant Contact State Code:TX
+Grant Contact Zip Code:77204(2010)
+Phone Number:832-842-3730
+Phone Extension:
+Email Address:samoore4@central.uh.edu
+Web Site Address:http://www.uh.edu/finaid
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Houston
+Grant Attending School OPEID:00365200
+Grant Award Year:2006 - 2007
+Grant Scheduled Amount:$3,000.00
+Grant Award Amount:$3,000.00
+Grant Disbursed Amount:$3,000.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00365200
+Grant Contact Name:University of Houston
+Grant Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Grant Contact Street Address 2:ERP2, ROOM 116
+Grant Contact City:HOUSTON
+Grant Contact State Code:TX
+Grant Contact Zip Code:77204(2010)
+Phone Number:832-842-3730
+Phone Extension:
+Email Address:samoore4@central.uh.edu
+Web Site Address:http://www.uh.edu/finaid
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Houston
+Grant Attending School OPEID:00365200
+Grant Award Year:2005 - 2006
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$4,050.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00365200
+Grant Contact Name:University of Houston
+Grant Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Grant Contact Street Address 2:ERP2, ROOM 116
+Grant Contact City:HOUSTON
+Grant Contact State Code:TX
+Grant Contact Zip Code:77204(2010)
+Phone Number:832-842-3730
+Phone Extension:
+Email Address:samoore4@central.uh.edu
+Web Site Address:http://www.uh.edu/finaid
+Grant Type Code:PE
+Grant Type Code Description:FEDERAL PELL GRANT
+Grant Attending School Name:University of Houston
+Grant Attending School OPEID:00365200
+Grant Award Year:2004 - 2005
+Grant Scheduled Amount:$4,050.00
+Grant Award Amount:$4,050.00
+Grant Disbursed Amount:$4,050.00
+Grant First Time:No
+Grant Additional Eligibility:No
+Award ID:
+Conversion Date:
+Children Of Fallen Heroes Indicator:No
+Aid Recipient's Percent Eligibility Used (EU):100.000%
+Aid Recipient's Total Percent Eligibility Used (TEU):100.000%
+Grant Contact Type:Attending School
+Grant Contact Code:00365200
+Grant Contact Name:University of Houston
+Grant Contact Street Address 1:SFA, 5000 GULF FREEWAY
+Grant Contact Street Address 2:ERP2, ROOM 116
+Grant Contact City:HOUSTON
+Grant Contact State Code:TX
+Grant Contact Zip Code:77204(2010)
+Phone Number:832-842-3730
+Phone Extension:
+Email Address:samoore4@central.uh.edu
+Web Site Address:http://www.uh.edu/finaid
+Program School Name:University of Texas at Arlington
+Program School OPEID:00365600
+Program Cip Year:2010
+Program Cip Code:130401
+Program CIP Title:Educational Leadership and Administration, General.
+Program Credential Level Code:06
+Program Credential Level Code Description:DOCTORAL DEGREE
+Program Begin Date:08/21/2014
+Program Published Length in Years:5.0
+Special Program Indicator Code:N
+Special Program Indicator Description:NOT APPLICABLE
+Program Status Code:G
+Program Status Code Description:GRADUATED
+Program Status Effective Date:08/14/2018
+Program Status Code:L
+Program Status Code Description:LESS THAN HALF TIME
+Program Status Effective Date:12/18/2017
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:08/24/2017
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:05/18/2016
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:12/21/2015
+Program Status Code:F
+Program Status Code Description:FULL TIME
+Program Status Effective Date:08/27/2015
+Program Status Code:H
+Program Status Code Description:HALF TIME
+Program Status Effective Date:12/15/2014
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:08/14/2017
+Award Loan Period Begin Date:08/24/2017
+Award Loan Period End Date:12/15/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:08/15/2016
+Award Loan Period Begin Date:08/25/2016
+Award Loan Period End Date:05/12/2017
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:06/07/2016
+Award Loan Period Begin Date:06/06/2016
+Award Loan Period End Date:08/16/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:08/17/2015
+Award Loan Period Begin Date:08/27/2015
+Award Loan Period End Date:05/13/2016
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:05/29/2015
+Award Loan Period Begin Date:06/08/2015
+Award Loan Period End Date:08/18/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of Texas at Arlington
+Award School OPEID:00365600
+Award Earliest Disbursement Date:08/11/2014
+Award Loan Period Begin Date:08/21/2014
+Award Loan Period End Date:05/15/2015
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas
+Award School OPEID:00359400
+Award Earliest Disbursement Date:08/19/2012
+Award Loan Period Begin Date:08/29/2012
+Award Loan Period End Date:05/10/2013
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas
+Award School OPEID:00359400
+Award Earliest Disbursement Date:06/06/2012
+Award Loan Period Begin Date:05/14/2012
+Award Loan Period End Date:08/10/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas
+Award School OPEID:00359400
+Award Earliest Disbursement Date:08/19/2011
+Award Loan Period Begin Date:08/25/2011
+Award Loan Period End Date:05/11/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Award School Name:University of North Texas
+Award School OPEID:00359400
+Award Earliest Disbursement Date:08/19/2011
+Award Loan Period Begin Date:08/25/2011
+Award Loan Period End Date:05/11/2012
+Award Subsidized Usage:0.0
+Award Subsidy Status:
+Enrolled School Name:University of Texas at Arlington
+Enrolled School OPEID:00365600
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:08/14/2018
+Enrolled School Name:University of North Texas
+Enrolled School OPEID:00359400
+Enrolled Status Code:G
+Enrolled Status Code Description:GRADUATED
+Enrolled Status Date:05/10/2013
+Enrolled School Name:Lamar University
+Enrolled School OPEID:00358100
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:12/15/2010
+Enrolled School Name:University of Houston
+Enrolled School OPEID:00365200
+Enrolled Status Code:W
+Enrolled Status Code Description:WITHDRAWN
+Enrolled Status Date:05/09/2008

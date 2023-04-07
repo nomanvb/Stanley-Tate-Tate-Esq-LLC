@@ -1,0 +1,26 @@
+[
+    {
+        "Type Code": "CL",
+        "Type Description": "FFEL CONSOLIDATED",
+        "Outstanding Principal": "41217.00",
+        "Outstanding Interest": "10966.00"
+    },
+    {
+        "Type Code": "D6",
+        "Type Description": "DIRECT CONSOLIDATED SUBSIDIZED",
+        "Outstanding Principal": "0.00",
+        "Outstanding Interest": "0.00"
+    },
+    {
+        "Type Code": "NU",
+        "Type Description": "NATIONAL DIRECT STUDENT LOAN (PERKINS)",
+        "Outstanding Principal": "0.00",
+        "Outstanding Interest": "0.00"
+    },
+    {
+        "Type Code": "SF",
+        "Type Description": "FFEL STAFFORD SUBSIDIZED",
+        "Outstanding Principal": "0.00",
+        "Outstanding Interest": "0.00"
+    }
+]

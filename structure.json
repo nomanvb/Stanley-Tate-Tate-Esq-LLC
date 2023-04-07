@@ -1,0 +1,38 @@
+{
+    "Student First Name":"GERALD",
+    "LoanSummary": [
+        {
+        },
+        {
+        }
+    ],
+    "LoanDetail": [
+    {
+        "Loan Type Code":"SF",
+        "LoanStaus": [
+            {
+            },
+            {
+            }],
+        "LoanContact" : [
+            {
+
+            },
+            {
+            }]
+    },
+    {
+        "Loan Type Code":"DF",
+        "LoanStaus": [
+            {
+            },
+            {
+            }],
+        "LoanContact" : [
+            {
+
+            },
+            {
+            }]
+    }]
+}
